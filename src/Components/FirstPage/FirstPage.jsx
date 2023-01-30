@@ -4,7 +4,7 @@ import "./FirstPage.scss";
 const FirstPage = () => {
   return (
     <div className="">
-      <div className="FirstPage--Containerred"></div>
+      <div className="FirstPage--Container"></div>
     </div>
   );
 };
