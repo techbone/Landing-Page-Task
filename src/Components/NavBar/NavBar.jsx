@@ -9,7 +9,7 @@ const NavBar = () => {
         <p className="font-sans text-[2rem] text-AppGreen pl-3">neoplantsss.</p>
       </div>
       <div className="w-[11rem] h-[3rem] bg-AppGreen rounded-3xl flex items-center justify-center hover:bg:">
-        <p>join the waitlist</p>
+        <p>join the waitlist with us</p>
       </div>
     </div>
   );
